@@ -38,3 +38,13 @@ php artisan migrate:fresh --seed
 ```bash
 php artisan serve
 ```
+
+Users for test
+====
+  
+| email              | pass     | role       |  
+|--------------------|----------|------------|  
+|root@example.com    | 1root!   | Super Admin|  
+|admin@example.com   | 1admin!  | Admin      |  
+|manager@example.com | 1manager!| Manager    |  
+|user@example.com    | 1user!   | User       |  
