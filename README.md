@@ -1,4 +1,4 @@
-#install and deploy
+###install and deploy
 1. install dependencies
 ```bash
 composer install && npm install
